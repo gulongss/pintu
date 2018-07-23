@@ -1,0 +1,272 @@
+{
+    "s1": {
+        "bgm": "Sound/bgm_s1_dialogue",
+        "background": "Texture/Dialogue/s1",
+        "dialogue": [{
+            "id": "s1-1",
+            "image": "Texture/Level/L1/a",
+            "dialogue": [{
+                "role": "detective",
+                "say": "今天收到一个委托任务，需要寻找失踪的女孩。"
+            }, {
+                "role": "detective",
+                "say": "先去她的家里看看，也许会找到一些线索。"
+            }]
+        }, {
+            "id": "s1-2",
+            "image": "Texture/Level/L1/b",
+            "dialogue": [{
+                "role": "detective",
+                "say": "一个破碎的花瓶。。。"
+            }, {
+                "role": "detective",
+                "say": "看来这里就是第一现场了，这些花都撒在了地上，等等这是什么。。。"
+            }]
+        }, {
+            "id": "s1-3",
+            "image": "Texture/Level/L1/c",
+            "dialogue": [{
+                "role": "detective",
+                "say": "花瓣上有血迹，有人受伤了。这会是谁了？"
+            }, {
+                "role": "detective",
+                "say": "床边有点问题，让我们去看一看。"
+            }]
+        }, {
+            "id": "s1-4",
+            "image": "Texture/Level/L1/d",
+            "dialogue": [{
+                "role": "detective",
+                "say": "剪刀上有血迹，事情越来越严重了。"
+            }, {
+                "role": "detective",
+                "say": "我还是到窗边看看，那里有些奇怪。"
+            }]
+        }, {
+            "id": "s1-5",
+            "image": "Texture/Level/L1/e",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这窗帘怎么会破成这样？"
+            }, {
+                "role": "detective",
+                "say": "衣橱那边有些响声，会是什么？"
+            }]
+        }, {
+            "id": "s1-6",
+            "image": "Texture/Level/L1/f",
+            "dialogue": [{
+                "role": "detective",
+                "say": "奇怪的猫，它在衣橱这里干什么？"
+            }, {
+                "role": "detective",
+                "say": "这里面应该有什么东西。"
+            }]
+        }]
+    },
+    "s2": {
+        "bgm": "Sound/bgm_s2_dialogue",
+        "background": "Texture/Dialogue/s2",
+        "dialogue": [{
+            "id": "s2-1",
+            "image": "Texture/Level/L2/a",
+            "dialogue": [{
+                "role": "girl",
+                "say": "侦探先生，我的小猫丢了，您能帮我找到我的小猫吗。"
+            }, {
+                "role": "detective",
+                "say": "虽然是个麻烦的小案子，总比没有的强。让我们从楼上开始吧。"
+            }]
+        }, {
+            "id": "s2-2",
+            "image": "Texture/Level/L2/b",
+            "dialogue": [{
+                "role": "detective",
+                "say": "楼梯上的这个线球应该是小猫的玩具，看方向应该是到了楼下。"
+            }, {
+                "role": "detective",
+                "say": "那么楼上应该不会有什么发现，我们还是在一楼找一找吧。"
+            }]
+        }, {
+            "id": "s2-3",
+            "image": "Texture/Level/L2/c",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这只猫真够淘气的，食盘都被打翻了，房间里都找遍了，只剩下厨房了。"
+            }, {
+                "role": "girl",
+                "say": "它确实很淘气！那我们去厨房看看吧。"
+            }]
+        }, {
+            "id": "s2-4",
+            "image": "Texture/Level/L2/d",
+            "dialogue": [{
+                "role": "detective",
+                "say": "厨房里也没有，这门开着，小猫应该是跑到花园里去了。"
+            }, {
+                "role": "girl",
+                "say": "啊，它不会是从围栏翻到大街上去了？"
+            }]
+        }, {
+            "id": "s2-5",
+            "image": "Texture/Level/L2/e",
+            "dialogue": [{
+                "role": "girl",
+                "say": "侦探先生，刚才好像听见小猫的声音了，我不会听错了吧？"
+            }, {
+                "role": "detective",
+                "say": "你没有听错，我也听见了，好像是从那棵树上传来的。"
+            }]
+        }, {
+            "id": "s2-6",
+            "image": "Texture/Level/L2/f",
+            "dialogue": [{
+                "role": "detective",
+                "say": "终于把你从树上弄下来了。"
+            }, {
+                "role": "detective",
+                "say": "这有个树洞，树洞里好像有些什么东西。"
+            }]
+        }]
+    },
+    "s3": {
+        "bgm": "Sound/bgm_s3_dialogue",
+        "background": "Texture/Dialogue/s3",
+        "dialogue": [{
+            "id": "s3-1",
+            "image": "Texture/Level/L3/a",
+            "dialogue": [{
+                "role": "girl",
+                "say": "这些好像是一个拼图，我能把它们拼起来吗？"
+            }, {
+                "role": "detective",
+                "say": "当然可以。"
+            }]
+        }, {
+            "id": "s3-2",
+            "image": "Texture/Level/L3/b",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这地图指向的终点就在这附近啊。"
+            }, {
+                "role": "girl",
+                "say": "这真像是一个寻宝游戏，我们去探险吧。"
+            }]
+        }, {
+            "id": "s3-3",
+            "image": "Texture/Level/L3/c",
+            "dialogue": [{
+                "role": "girl",
+                "say": "这里好破旧啊，真脏。"
+            }, {
+                "role": "detective",
+                "say": "这个工厂应该废弃很久了。"
+            }]
+        }, {
+            "id": "s3-4",
+            "image": "Texture/Level/L3/d",
+            "dialogue": [{
+                "role": "detective",
+                "say": "竟然有一个地下室，它会通向哪里？"
+            }, {
+                "role": "girl",
+                "say": "好黑啊，我害怕！"
+            }]
+        }, {
+            "id": "s3-5",
+            "image": "Texture/Level/L3/e",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这里应该经常有人来，你看这里都没有灰尘。"
+            }, {
+                "role": "girl",
+                "say": "这里是爷爷以前的办公室。"
+            }]
+        }, {
+            "id": "s3-6",
+            "image": "Texture/Level/L3/f",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这里还有一颗纽扣，表面没有灰尘，应该是新掉的。"
+            }, {
+                "role": "girl",
+                "say": "这纽扣有点眼熟。"
+            }]
+        }]
+    },
+    "s4": {
+        "bgm": "Sound/bgm_s4_dialogue",
+        "background": "Texture/Dialogue/s4",
+        "dialogue": [{
+            "id": "s4-1",
+            "image": "Texture/Level/L4/a",
+            "dialogue": [{
+                "role": "detective",
+                "say": "很长时间没见，有没有调皮啊？"
+            }, {
+                "role": "girl",
+                "say": "我现在很乖的。"
+            }, {
+                "role": "detective",
+                "say": "怎么会有这么旧的衣服挂在这？"
+            }, {
+                "role": "girl",
+                "say": "别动，那是我爷爷的宝贝。"
+            }]
+        }, {
+            "id": "s4-2",
+            "image": "Texture/Level/L4/b",
+            "dialogue": [{
+                "role": "girl",
+                "say": "爷爷出去了好久，不会又走丢了吧？"
+            }, {
+                "role": "detective",
+                "say": "你爷爷经常迷路吗？"
+            }, {
+                "role": "girl",
+                "say": "不会，以前这个时候爷爷就已经回来了，但是今天还没有来。"
+            }, {
+                "role": "detective",
+                "say": "看看这件衣服上的纽扣，我们曾经见过。我想，我知道他去了哪里。"
+            }]
+        }, {
+            "id": "s4-3",
+            "image": "Texture/Level/L4/c",
+            "dialogue": [{
+                "role": "detective",
+                "say": "这只鞋和上次地下室看见的很像啊。"
+            }, {
+                "role": "girl",
+                "say": "那是爷爷的皮鞋。"
+            }]
+        }, {
+            "id": "s4-4",
+            "image": "Texture/Level/L4/d",
+            "dialogue": [{
+                "role": "girl",
+                "say": "又要去那里面啊，那里太吓人了。"
+            }, {
+                "role": "detective",
+                "say": "你爷爷应该会在里面。"
+            }, {
+                "role": "girl",
+                "say": "可是里面好黑啊！我可不想再去一次了，我还是在上面等你吧。"
+            }]
+        }, {
+            "id": "s4-5",
+            "image": "Texture/Level/L4/e",
+            "dialogue": [{
+                "role": "detective",
+                "say": "门里有灯光，里面好像有人。"
+            }]
+        }, {
+            "id": "s4-6",
+            "image": "Texture/Level/L4/f",
+            "dialogue": [{
+                "role": "detective",
+                "say": "经常走失的老年人，他的家人都会在口袋里放一张写有地址的卡片，让我找找。"
+            }]
+        }]
+    }
+
+}
